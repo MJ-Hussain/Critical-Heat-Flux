@@ -1,0 +1,15 @@
+===============================================
+	     Critical Heat flux
+===============================================
+Tabulated values of critcal heat flux are 
+available but sometimes at given specific
+parameters we have to interpolate to find the
+Critical Heat Flux
+
+Program find the values of CHF at given values of
+-Pressure
+-Mass FLux
+-Flow Quality
+
+If the value isn't availabe in table for given input parameters
+then neighbouring values are interpolated.
